@@ -1,0 +1,604 @@
+#
+# Results on Monday September 14 2020 12:55:01 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1600088101,37dd94fbd9a64cd01a30b7a0b0bca9c0,PennController,0,0,critical,NULL,PennController,0,_Trial_,Start,1600088091771,NULL
+1600088101,37dd94fbd9a64cd01a30b7a0b0bca9c0,PennController,0,0,critical,NULL,Key,next,PressedKey, ,1600088093087,Wait success
+1600088101,37dd94fbd9a64cd01a30b7a0b0bca9c0,PennController,0,0,critical,NULL,Key,next2,PressedKey, ,1600088093678,Wait success
+1600088101,37dd94fbd9a64cd01a30b7a0b0bca9c0,PennController,0,0,critical,NULL,Key,next3,PressedKey, ,1600088094351,Wait success
+1600088101,37dd94fbd9a64cd01a30b7a0b0bca9c0,PennController,0,0,critical,NULL,Scale,question,Choice,'No',1600088099028,NULL
+1600088101,37dd94fbd9a64cd01a30b7a0b0bca9c0,PennController,0,0,critical,NULL,PennController,0,_Trial_,End,1600088101885,NULL
+#
+# Results on Monday September 28 2020 08:33:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,critical_trials,NULL,PennController,1,_Trial_,Start,1601280416006,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,critical_trials,NULL,Scale,question,Choice,NO,1601280443066,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,critical_trials,NULL,PennController,1,_Trial_,End,1601280448782,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,Start,1601280448795,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,Scale,question,Choice,YES,1601280492442,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,End,1601280494582,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,Start,1601280494594,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,Scale,question,Choice,NO,1601280560900,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,End,1601280562758,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,Start,1601280562770,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,Scale,question,Choice,YES,1601280609386,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,End,1601280611114,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,Start,1601280611121,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,Scale,question,Choice,YES,1601280647956,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,End,1601280652494,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,Start,1601280652500,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,Scale,question,Choice,YES,1601280903278,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,End,1601280905227,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,Start,1601280905232,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,Scale,question,Choice,YES,1601281211680,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,End,1601281213652,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,Start,1601281213658,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,Scale,question,Choice,NO,1601281260890,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,End,1601281268105,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,Start,1601281268111,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,Scale,question,Choice,YES,1601281284275,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,End,1601281286244,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,Start,1601281286251,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,Scale,question,Choice,YES,1601281315098,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,End,1601281317099,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,Start,1601281317106,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,Scale,question,Choice,YES,1601281325202,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,End,1601281326893,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,Start,1601281326898,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,Scale,question,Choice,YES,1601281340227,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,End,1601281342601,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,Start,1601281342604,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,Scale,question,Choice,YES,1601281360850,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,End,1601281362708,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,Start,1601281362713,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,Scale,question,Choice,YES,1601281373995,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,End,1601281376369,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,Start,1601281376372,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,Scale,question,Choice,YES,1601281392540,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,End,1601281394369,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,Start,1601281394372,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,Scale,question,Choice,YES,1601281410745,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,End,1601281412517,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,Start,1601281412520,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,Scale,question,Choice,YES,1601281431586,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,End,1601281434156,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,Start,1601281434159,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,Scale,question,Choice,NO,1601281469947,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,End,1601281483715,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,Start,1601281483718,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,Scale,question,Choice,YES,1601281993631,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,End,1601281996086,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,Start,1601281996101,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,Scale,question,Choice,YES,1601282004898,NULL
+1601282036,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,End,1601282035546,NULL
+#
+# Results on Monday September 28 2020 12:28:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. Comments.
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1601295772413,33,female,yes%2C I also speak:,english,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,0,0,demographics,NULL,DropDown,other_languages,Selected,yes%2C I also speak:,1601295812542,33,female,yes%2C I also speak:,english,1
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1601295818872,33,female,yes%2C I also speak:,english,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,1,0,critical_trials,NULL,PennController,1,_Trial_,Start,1601295818875,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,1,0,critical_trials,NULL,Scale,question,Choice,YES,1601295823699,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,1,0,critical_trials,NULL,PennController,1,_Trial_,End,1601295827449,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,Start,1601295827452,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,2,0,critical_trials,NULL,Scale,question,Choice,YES,1601295831893,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,End,1601295833902,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,Start,1601295833904,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,3,0,critical_trials,NULL,Scale,question,Choice,YES,1601295837436,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,End,1601295839335,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,Start,1601295839337,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,4,0,critical_trials,NULL,Scale,question,Choice,NO,1601295842064,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,End,1601295843902,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,Start,1601295843903,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,5,0,critical_trials,NULL,Scale,question,Choice,NO,1601295846375,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,End,1601295847985,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,Start,1601295847987,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,6,0,critical_trials,NULL,Scale,question,Choice,YES,1601295850908,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,End,1601295852599,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,Start,1601295852601,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,7,0,critical_trials,NULL,Scale,question,Choice,YES,1601295855410,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,End,1601295857052,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,Start,1601295857054,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,8,0,critical_trials,NULL,Scale,question,Choice,YES,1601295941918,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,End,1601295944242,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,Start,1601295944244,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,9,0,critical_trials,NULL,Scale,question,Choice,YES,1601295947726,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,End,1601295949765,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,Start,1601295949768,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,10,0,critical_trials,NULL,Scale,question,Choice,NO,1601295955307,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,End,1601295957794,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,Start,1601295957796,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,11,0,critical_trials,NULL,Scale,question,Choice,YES,1601296033034,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,End,1601296035110,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,Start,1601296035112,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,12,0,critical_trials,NULL,Scale,question,Choice,YES,1601296037635,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,End,1601296039935,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,Start,1601296039937,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,13,0,critical_trials,NULL,Scale,question,Choice,NO,1601296053778,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,End,1601296055657,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,Start,1601296055658,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,14,0,critical_trials,NULL,Scale,question,Choice,YES,1601296058379,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,End,1601296060271,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,Start,1601296060272,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,15,0,critical_trials,NULL,Scale,question,Choice,YES,1601296062711,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,End,1601296064443,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,Start,1601296064444,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,16,0,critical_trials,NULL,Scale,question,Choice,YES,1601296067998,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,End,1601296070803,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,Start,1601296070804,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,17,0,critical_trials,NULL,Scale,question,Choice,YES,1601296073407,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,End,1601296075586,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,Start,1601296075587,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,18,0,critical_trials,NULL,Scale,question,Choice,NO,1601296078596,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,End,1601296080442,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,Start,1601296080443,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,19,0,critical_trials,NULL,Scale,question,Choice,YES,1601296083805,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,End,1601296086013,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,Start,1601296086015,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,20,0,critical_trials,NULL,Scale,question,Choice,NO,1601296089102,NULL
+1601296091,58dd79f0d5a354f8e59b47d99b25df5d,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,End,1601296090792,NULL
+#
+# Results on Monday September 28 2020 15:20:23 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1601306424,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,post,NULL,PennController,0,_Trial_,Start,1601306423234,NULL
+1601306424,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,post,NULL,PennController,0,_Trial_,End,1601306423241,NULL
+#
+# Results on Monday September 28 2020 18:21:25 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1601317149380,pp,oo,female,oo,no,,withsquare,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,DropDown,other_languages,Selected,no,1601317195658,pp,oo,female,oo,no,,withsquare,0
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1601317197392,pp,oo,female,oo,no,,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. withsquare.
+# 18. Comments.
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1601317197395,oo,female,undefined,undefined,withsquare,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1601317199696,oo,female,undefined,undefined,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,Start,1601317199701,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,Scale,question,Choice,YES,1601317204502,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,End,1601317205219,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,Start,1601317205221,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,Scale,question,Choice,YES,1601317208575,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,End,1601317209370,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,Start,1601317209374,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,Scale,question,Choice,YES,1601317212942,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,End,1601317213729,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,Start,1601317213732,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,Scale,question,Choice,YES,1601317218926,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,End,1601317219680,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,Start,1601317219683,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,Scale,question,Choice,YES,1601317223302,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,End,1601317223929,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,Start,1601317223932,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,Scale,question,Choice,YES,1601317228805,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,End,1601317229513,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,Start,1601317229515,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,Scale,question,Choice,YES,1601317232710,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,End,1601317233256,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,Start,1601317233260,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,Scale,question,Choice,YES,1601317236605,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,End,1601317237249,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,Start,1601317237252,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,Scale,question,Choice,YES,1601317240493,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,End,1601317241257,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,Start,1601317241260,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,Scale,question,Choice,YES,1601317244653,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,End,1601317245304,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,Start,1601317245306,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,Scale,question,Choice,YES,1601317248815,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,End,1601317249633,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,Start,1601317249635,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,Scale,question,Choice,YES,1601317253095,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,End,1601317253787,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,Start,1601317253795,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,Scale,question,Choice,YES,1601317257164,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,End,1601317257691,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,Start,1601317257697,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,Scale,question,Choice,YES,1601317261149,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,End,1601317261706,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,Start,1601317261709,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,Scale,question,Choice,YES,1601317265007,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,End,1601317265668,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,Start,1601317265670,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,Scale,question,Choice,YES,1601317268991,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,End,1601317269697,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,Start,1601317269699,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,Scale,question,Choice,YES,1601317273173,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,End,1601317273723,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,Start,1601317273727,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,Scale,question,Choice,YES,1601317277143,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,End,1601317277720,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,Start,1601317277724,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,Scale,question,Choice,YES,1601317281206,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,End,1601317281744,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,21,0,critical_trials,NULL,PennController,21,_Trial_,Start,1601317281747,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,21,0,critical_trials,NULL,Scale,question,Choice,YES,1601317285286,NULL
+1601317285,669368ad2f4cc20c62d4b0d6337705ff,PennController,21,0,critical_trials,NULL,PennController,21,_Trial_,End,1601317285928,NULL
+#
+# Results on Monday September 28 2020 18:31:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1601317762503,nn,nn,female,pp,no,,withsquare,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,DropDown,other_languages,Selected,no,1601317780200,nn,nn,female,pp,no,,withsquare,0
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1601317782303,nn,nn,female,pp,no,,withsquare,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1601317782306,nn,nn,female,pp,no,,withsquare,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1601317784280,nn,nn,female,pp,no,,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,Start,1601317784285,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,Scale,question,Choice,YES,1601317789159,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,2,0,critical_trials,NULL,PennController,2,_Trial_,End,1601317789860,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,Start,1601317789865,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,Scale,question,Choice,YES,1601317793125,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,3,0,critical_trials,NULL,PennController,3,_Trial_,End,1601317794153,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,Start,1601317794157,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,Scale,question,Choice,YES,1601317797511,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,4,0,critical_trials,NULL,PennController,4,_Trial_,End,1601317798130,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,Start,1601317798134,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,Scale,question,Choice,YES,1601317802925,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,5,0,critical_trials,NULL,PennController,5,_Trial_,End,1601317803553,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,Start,1601317803556,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,Scale,question,Choice,YES,1601317806814,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,6,0,critical_trials,NULL,PennController,6,_Trial_,End,1601317807528,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,Start,1601317807530,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,Scale,question,Choice,YES,1601317811541,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,7,0,critical_trials,NULL,PennController,7,_Trial_,End,1601317812119,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,Start,1601317812122,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,Scale,question,Choice,YES,1601317815493,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,8,0,critical_trials,NULL,PennController,8,_Trial_,End,1601317816121,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,Start,1601317816124,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,Scale,question,Choice,YES,1601317819310,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,9,0,critical_trials,NULL,PennController,9,_Trial_,End,1601317819974,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,Start,1601317819978,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,Scale,question,Choice,YES,1601317823125,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,10,0,critical_trials,NULL,PennController,10,_Trial_,End,1601317823648,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,Start,1601317823649,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,Scale,question,Choice,YES,1601317826879,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,End,1601317827564,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,Start,1601317827571,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,Scale,question,Choice,YES,1601317830746,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,12,0,critical_trials,NULL,PennController,12,_Trial_,End,1601317831436,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,Start,1601317831441,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,Scale,question,Choice,YES,1601317834590,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,End,1601317835272,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,Start,1601317835274,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,Scale,question,Choice,YES,1601317838294,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,14,0,critical_trials,NULL,PennController,14,_Trial_,End,1601317838826,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,Start,1601317838829,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,Scale,question,Choice,YES,1601317841926,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,End,1601317842514,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,Start,1601317842516,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,Scale,question,Choice,YES,1601317845894,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,16,0,critical_trials,NULL,PennController,16,_Trial_,End,1601317846819,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,Start,1601317846823,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,Scale,question,Choice,YES,1601317850685,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,17,0,critical_trials,NULL,PennController,17,_Trial_,End,1601317851313,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,Start,1601317851316,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,Scale,question,Choice,YES,1601317854421,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,18,0,critical_trials,NULL,PennController,18,_Trial_,End,1601317854992,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,Start,1601317854996,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,Scale,question,Choice,YES,1601317857966,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,19,0,critical_trials,NULL,PennController,19,_Trial_,End,1601317858537,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,Start,1601317858542,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,Scale,question,Choice,YES,1601317861846,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,20,0,critical_trials,NULL,PennController,20,_Trial_,End,1601317862649,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,21,0,critical_trials,NULL,PennController,21,_Trial_,Start,1601317862651,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,21,0,critical_trials,NULL,Scale,question,Choice,YES,1601317865750,NULL
+1601317866,669368ad2f4cc20c62d4b0d6337705ff,PennController,21,0,critical_trials,NULL,PennController,21,_Trial_,End,1601317866360,NULL
+#
+# Results on Monday September 28 2020 18:40:54 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601318455,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1601318440412,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601318455,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,Scale,question,Choice,Yes,1601318454389,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601318455,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,End,1601318455372,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+#
+# Results on Monday September 28 2020 18:42:59 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601318580,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1601318577463,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601318580,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,Scale,question,Choice,Yes,1601318579262,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601318580,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,End,1601318580331,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+#
+# Results on Monday September 28 2020 19:08:59 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601320140,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1601320020195,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601320140,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,Scale,question,Choice,Yes,1601320022861,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601320140,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,End,1601320140430,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+#
+# Results on Monday September 28 2020 19:10:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601320255,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1601320244335,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601320255,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,Scale,question,Choice,Yes,1601320248931,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+1601320255,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,End,1601320255932,undefined,undefined,undefined,undefined,undefined,undefined,withsquare,NULL
+#
+# Results on Monday September 28 2020 19:25:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. nat_lang.
+# 17. other_lang.
+# 18. which_other.
+# 19. withsquare.
+# 20. Comments.
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1601320940211,gg,gg,female,ll,no,,withsquare,NULL
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,DropDown,other_languages,Selected,no,1601320976790,gg,gg,female,ll,no,,withsquare,0
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1601320980878,gg,gg,female,ll,no,,withsquare,NULL
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1601320980885,gg,gg,female,ll,no,,withsquare,NULL
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1601321099418,gg,gg,female,ll,no,,withsquare,NULL
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1601321099428,gg,gg,female,ll,no,,withsquare,NULL
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,Scale,question,Choice,Yes,1601321104455,gg,gg,female,ll,no,,withsquare,NULL
+1601321117,669368ad2f4cc20c62d4b0d6337705ff,PennController,22,0,post_questionaire,NULL,PennController,2,_Trial_,End,1601321117192,gg,gg,female,ll,no,,withsquare,NULL
